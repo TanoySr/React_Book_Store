@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "title": "The Lord of the Rings",
+        "description": "An epic high-fantasy trilogy written by English philologist and professor J. R. R. Tolkien. The story began as a sequel to Tolkien's 1937 fantasy novel The Hobbit, but eventually developed into a much larger work written in stages between 1937 and 1949.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/21120/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+        "id": 2,
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "description": "Comic science fiction comedy series created by Douglas Adams. Originally a radio comedy broadcast on the BBC, it was later adapted to other formats, including stage shows, novels, comic books, a 1981 TV series, a 1984 video game, a 2005 feature film, and its 2008 sequel",
+        "price": 78,
+        "category": "Science ",
+        "image": "https://images.pexels.com/photos/21120/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+        "id": 3,
+        "title": "Pride and Prejudice",
+        "description": "Romantic novel written by English novelist Jane Austen in 1813. The story follows the main character, Elizabeth Bennet, as she deals with issues of marriage, wealth, and morality in early 19th-century England",
+        "price": 54,
+        "category": "Romance",
+        "image": "https://images.pexels.com/photos/21120/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+        "id": 4,
+        "title": "To Kill a Mockingbird",
+        "description": "Gothic fiction novel written by Harper Lee published in 1960. Instantly successful, it won the 1961 Pulitzer Prize for Fiction and has been translated into more than 40 languages. The novel is set in the fictional town of Maycomb, Alabama, during the era of the Great Depression",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/21120/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+        "id": 5,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "description": "Fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it was first published on 26 June 1997 by Bloomsbury Lions in the United Kingdom",
+        "price": 67,
+        "category": "Fantasy",
+        "image": "https://images.pexels.com/photos/21120/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+        "id": 6,
+        "title": "The Great Gatsby",
+        "description": "Novel written by American author F. Scott Fitzgerald. Set in the Jazz Age on Long Island, New York, the story primarily focuses on the young and mysterious millionaire Jay Gatsby and his obsession with Daisy Buchanan, a beautiful young woman",
+        "price": 66,
+        "category": "Fiction",
+        "image": "https://images.pexels.com/photos/21120/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+        "id": 7,
+        "title": "The Catcher in the Rye",
+        "description": "Coming-of-age novel written by J. D. Salinger. First published in 1951, the novel's protagonist is Holden Caulfield, a cynical teenager who is expelled from boarding school for academic failure",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/21120/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+        "id": 8,
+        "title": "19Catcher in the Rye",
+        "description": "Dystopian political thriller novel written by English novelist George Orwell. It was published on 8 June 1949 as Nineteen Eighty-Four",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/21120/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+        "id": 9,
+        "title": "The Great Gatsby",
+        "description": "Novel written by American author F. Scott Fitzgerald. Set in the Jazz Age on Long Island, New York, the story primarily focuses on the young and mysterious millionaire Jay Gatsby and his obsession with Daisy Buchanan, a beautiful young woman",
+        "price": 76,
+        "category": "Fiction",
+        "image": "https://images.pexels.com/photos/21120/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+        "id": 10,
+        "title": "The Great Gatsby",
+        "description": "Novel written by American author F. Scott Fitzgerald. Set in the Jazz Age on Long Island, New York, the story primarily focuses on the young and mysterious millionaire Jay Gatsby and his obsession with Daisy Buchanan, a beautiful young woman",
+        "price": 145,
+        "category": "Fiction",
+        "image": "https://images.pexels.com/photos/21120/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+        "id": 11,
+        "title": "The Great Gatsby",
+        "description": "Novel written by American author F. Scott Fitzgerald. Set in the Jazz Age on Long Island, New York, the story primarily focuses on the young and mysterious millionaire Jay Gatsby and his obsession with Daisy Buchanan, a beautiful young woman",
+        "price": 458,
+        "category": "Fiction",
+        "image": "https://images.pexels.com/photos/21120/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+        "id": 12,
+        "title": "The Great Gatsby",
+        "description": "Novel written by American author F. Scott Fitzgerald. Set in the Jazz Age on Long Island, New York, the story primarily focuses on the young and mysterious millionaire Jay Gatsby and his obsession with Daisy Buchanan, a beautiful young woman",
+        "price": 478,
+        "category": "Fiction",
+        "image": "https://images.pexels.com/photos/21120/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+
+]
